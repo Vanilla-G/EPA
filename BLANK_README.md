@@ -254,7 +254,7 @@ Project Link: [https://github.com/Vanilla-G/EPA](https://github.com/Vanilla-G/EP
 [issues-shield]: https://img.shields.io/github/issues/Vanilla-G/EPA.svg?style=for-the-badge
 [issues-url]: https://github.com/Vanilla-G/EPA/issues
 [license-shield]: https://img.shields.io/github/license/Vanilla-G/EPA.svg?style=for-the-badge
-[license-url]: https://github.com/Vanilla-G/EPA/blob/master/LICENSE.txt
+[license-url]: https://github.com/Vanilla-G/EPA/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/grahamball-gl50-m32-remote
 [product-screenshot]: images/screenshot.png
