@@ -120,6 +120,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![Ubuntu][Ubuntu.icon]][Ubuntu-url]
+* ![Static Badge](https://img.shields.io/badge/Ubuntu%20-%20red?style=for-the-badge&logo=ubuntu&logoColor=red)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
