@@ -98,7 +98,7 @@ Objectives:
 
 <p align="center">
   <a href="https://tryhackme.com/p/PinkBeef">
-    <img src="path/to/product-screenshot.png" alt="Product Screenshot">
+    <img src="images/screenshot.png" alt="Product Screenshot">
   </a>
 </p>
 
