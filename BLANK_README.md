@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Rise of the LEMPire DevOps EPA</h3>
+<h3 align="center">From Code to Cloud: Rise of the LEMPire - DevOps EPA</h3>
 
   <p align="center">
-    project_description
+    This project involves deploying a scalable and secure WordPress-based e-commerce website for protein products on a LEMP (Linux, Nginx, MariaDB, PHP) stack using AWS. Infrastructure will be provisioned via Terraform for automated setup and management. Cloudflare will enhance security and optimize performance, while SSL certificates will be managed through Certbot for secure HTTPS communication. CI/CD pipelines will be automated using GitHub Actions, ensuring continuous integration and delivery. Monitoring and alerting will be set up with Grafana and Uptime Kuma for ongoing infrastructure and application health tracking.
     <br />
     <a href="https://github.com/Vanilla-G/EPA"><strong>Explore the docs »</strong></a>
     <br />
@@ -82,6 +82,18 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+The project involves deploying a WordPress-based e-commerce website specialising in protein products. The deployment will utilise a LEMP (Linux, Nginx, MariaDB, PHP) stack on AWS. Infrastructure will be provisioned and managed using Terraform. Cloudflare will be implemented for enhanced security and performance. Certbot will be used to obtain certifications authority and manage SSL certificates for the website, ensuring secure HTTPS communication. CI/CD processes will be automated using GitHub Actions to ensure continuous integration and delivery. 
+
+Objectives:
+1. Infrastructure Setup: Deploy a scalable and secure LEMP stack on AWS or Azure provisioned through IaC using Terraform.
+2. Website Deployment: Set up WordPress as the content management system for the e-commerce store.
+3. Security: Implement and utilise Cloudflare to secure the website and optimise its performance and leveraging Github Secrets for access tokens.
+4. CI/CD Pipeline: Use GitHub Actions to automate testing, building, and deployment processes.
+5. Monitoring and Maintenance: Set up monitoring and alerting for the infrastructure and application with a Grafana stack and Uptime Kuma applications.
+   
+![image](https://github.com/user-attachments/assets/b2fc3d4c-79f4-4887-8656-564bd3e854c5)
+
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
