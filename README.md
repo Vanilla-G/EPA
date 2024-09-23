@@ -127,6 +127,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * ![Static Badge](https://img.shields.io/badge/Ubuntu%20-%20red?style=for-the-badge&logo=ubuntu&logoColor=red)
 * ![Static Badge](https://img.shields.io/badge/Nginx%20-%20Green?style=for-the-badge&logo=nginx&logoColor=red)
 * ![Static Badge](https://img.shields.io/badge/MySQL%20-%20Green?style=for-the-badge&logo=mysql)
+* ![Static Badge](https://img.shields.io/badge/MariaDB%20-%20blue?style=for-the-badge&logo=mariadb&logoColor=black)
 * ![Static Badge](https://img.shields.io/badge/PHP%20-%20%23777BB4?style=for-the-badge&logo=php&logoColor=black)
 * ![Static Badge](https://img.shields.io/badge/Wordpress%20-%20%2321759B?style=for-the-badge&logo=wordpress)
 * ![Static Badge](https://img.shields.io/badge/Terraform%20-%20%23844FBA?style=for-the-badge&logo=terraform&logoColor=grey)
