@@ -119,8 +119,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+
+  
 * [![Ubuntu][Ubuntu.icon]][Ubuntu-url]
-* ![Static Badge](https://img.shields.io/badge/Ubuntu%20-%20red?style=for-the-badge&logo=ubuntu&logoColor=red)[Ubuntu-url]
+
+  
+* ![Static Badge](https://img.shields.io/badge/Ubuntu%20-%20red?style=for-the-badge&logo=ubuntu&logoColor=red)
 * ![Static Badge](https://img.shields.io/badge/Nginx%20-%20Green?style=for-the-badge&logo=nginx&logoColor=red)
 * ![Static Badge](https://img.shields.io/badge/MySQL%20-%20Green?style=for-the-badge&logo=mysql)
 * ![Static Badge](https://img.shields.io/badge/PHP%20-%20%23777BB4?style=for-the-badge&logo=php&logoColor=black)
