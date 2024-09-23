@@ -91,11 +91,17 @@ Objectives:
 3. Security: Implement and utilise Cloudflare to secure the website and optimise its performance and leveraging Github Secrets for access tokens.
 4. CI/CD Pipeline: Use GitHub Actions to automate testing, building, and deployment processes.
 5. Monitoring and Maintenance: Set up monitoring and alerting for the infrastructure and application with a Grafana stack and Uptime Kuma applications.
-   
-<p align="center">![image](images/logo.png)</p>
 
+<p align="center">
+  <img src="images/logo.png" alt="Logo">
+</p>
 
-<p align="center">[![Product Name Screen Shot][product-screenshot]](https://tryhackme.com/p/PinkBeef)</p>
+<p align="center">
+  <a href="https://tryhackme.com/p/PinkBeef">
+    <img src="path/to/product-screenshot.png" alt="Product Screenshot">
+  </a>
+</p>
+
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
