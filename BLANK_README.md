@@ -120,7 +120,18 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![Ubuntu][Ubuntu.icon]][Ubuntu-url]
-* ![Static Badge](https://img.shields.io/badge/Ubuntu%20-%20red?style=for-the-badge&logo=ubuntu&logoColor=red)
+* ![Static Badge](https://img.shields.io/badge/Ubuntu%20-%20red?style=for-the-badge&logo=ubuntu&logoColor=red)[Ubuntu-url]
+* ![Static Badge](https://img.shields.io/badge/Nginx%20-%20Green?style=for-the-badge&logo=nginx&logoColor=red)
+* ![Static Badge](https://img.shields.io/badge/MySQL%20-%20Green?style=for-the-badge&logo=mysql)
+* ![Static Badge](https://img.shields.io/badge/PHP%20-%20%23777BB4?style=for-the-badge&logo=php&logoColor=black)
+* ![Static Badge](https://img.shields.io/badge/Wordpress%20-%20%2321759B?style=for-the-badge&logo=wordpress)
+* ![Static Badge](https://img.shields.io/badge/Terraform%20-%20%23844FBA?style=for-the-badge&logo=terraform&logoColor=grey)
+* ![Static Badge](https://img.shields.io/badge/Github%20Actions%20-%20black?style=for-the-badge&logo=githubactions&logoColor=%232088FF)
+* ![Static Badge](https://img.shields.io/badge/Grafana%20-%20%23F46800?style=for-the-badge&logo=grafana&logoColor=black)
+* ![Static Badge](https://img.shields.io/badge/Prometheus%20-%20black?style=for-the-badge&logo=prometheus&logoColor=%23E6522C)
+* ![Static Badge](https://img.shields.io/badge/Kuma%20-%20green?style=for-the-badge&logo=prometheus&logoColor=%235CDD8B)
+* ![Static Badge](https://img.shields.io/badge/AWS%20-%20%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=gold)
+
 
 
 
