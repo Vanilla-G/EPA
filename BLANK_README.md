@@ -119,6 +119,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![Ubuntu][Ubuntu.icon]][Ubuntu-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -274,3 +276,9 @@ Project Link: [https://github.com/Vanilla-G/EPA](https://github.com/Vanilla-G/EP
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+[Ubuntu.icon]: https://w7.pngwing.com/pngs/503/133/png-transparent-ubuntu-plain-logo-icon.png
+[Ubuntu-url]: https://ubuntu.com/server
+
+
+
