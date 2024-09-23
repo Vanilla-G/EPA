@@ -92,10 +92,10 @@ Objectives:
 4. CI/CD Pipeline: Use GitHub Actions to automate testing, building, and deployment processes.
 5. Monitoring and Maintenance: Set up monitoring and alerting for the infrastructure and application with a Grafana stack and Uptime Kuma applications.
    
-![image](https://github.com/user-attachments/assets/b2fc3d4c-79f4-4887-8656-564bd3e854c5)
+![image](images/logo.png)
 
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://tryhackme.com/p/PinkBeef)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
