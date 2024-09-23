@@ -290,7 +290,7 @@ Project Link: [https://github.com/Vanilla-G/EPA](https://github.com/Vanilla-G/EP
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
-[Ubuntu.icon]: https://w7.pngwing.com/pngs/503/133/png-transparent-ubuntu-plain-logo-icon.png
+[Ubuntu.icon]: https://img.shields.io/badge/Ubuntu%20-%20red?style=for-the-badge&logo=ubuntu&logoColor=red
 [Ubuntu-url]: https://ubuntu.com/server
 
 
